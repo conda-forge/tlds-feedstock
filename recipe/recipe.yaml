@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 2026093003
+  version: "2026102900"
 
 package:
   name: tlds
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/t/tlds/tlds-${{ version }}.tar.gz
-  sha256: 573e8eb20d9f5dcbaed6fdfc56f2fd6047e6fef6282af24147589e87700a32bb
+  sha256: 296525821ee8fa076a908c0024a23de79fb60147e302869c76226fe315a50842
 
 build:
   number: 0
